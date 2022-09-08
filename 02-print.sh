@@ -1,2 +1,6 @@
 #!/bin/bash
-echo -e "devid/david"
+
+echo line 1
+echo line 2
+
+echo -e "devid\ndavid"
