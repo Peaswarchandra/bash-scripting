@@ -1,1 +1,2 @@
-ech0 -e "devid/david"
+#!/bin/bash
+echo -e "devid/david"
